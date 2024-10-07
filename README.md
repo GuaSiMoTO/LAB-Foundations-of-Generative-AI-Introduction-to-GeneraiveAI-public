@@ -1,5 +1,7 @@
 # LAB-Foundations-of-Generative-AI-Introduction-to-GeneraiveAI
 
+![](https://user-images.githubusercontent.com/970858/63474771-d6734700-c469-11e9-83bb-9429da563909.png)
+
 ## Introduction
 
 In this project, we will explore the practical applications of Generative AI in the business creation process. We will use a range of free AI tools to develop various elements of a startup, such as the company name, logo, marketing materials, and business plans. The goal is to demonstrate how Generative AI can accelerate and enhance the entrepreneurial process.
@@ -54,4 +56,26 @@ Prepare a final presentation of your business concept using Google Slides or Pow
 ### Step 9: Evaluation
 
 Evaluate the effectiveness of using Generative AI tools in the startup creation process. Discuss potential improvements and real-world applicability. 
+
+## Submission
+Once you have completed your analysis and visualizations, push your Jupyter notebook to your forked GitHub repository. Ensure that your final submission includes narratives explaining your visualizations and insights.
+
+
+```bash
+$ git add .
+$ git commit -m "done"
+$ git push origin main
+```
+
+Then create a Pull Request!!
+
+## Additional Resources
+
+- [TensorFlow Documentation](https://www.tensorflow.org/)
+- [Keras API](https://keras.io/)
+- [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
+- [Scikit-learn RandomizedSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html)
+
+
+![happy_coding](https://user-images.githubusercontent.com/970858/63899010-c23fc480-c9ea-11e9-84a2-542907e42362.png)
 
