@@ -4,62 +4,82 @@
 
 ## Introduction
 
-In this project, we will explore the practical applications of Generative AI in the business creation process. We will use a range of free AI tools to develop various elements of a startup, such as the company name, logo, marketing materials, and business plans. The goal is to demonstrate how Generative AI can accelerate and enhance the entrepreneurial process.
+In this project, we will explore the practical applications of Generative AI in the business creation process. We will use a range of free AI tools to develop various elements of a startup, such as the company name, logo, marketing materials, and web page. The goal is to demonstrate how Generative AI can accelerate and enhance the entrepreneurial process.
+
+![image](https://github.com/user-attachments/assets/be87a577-4f78-4a88-9e51-02cc8e460636)
 
 ## Setup Instructions
 
 To follow along and implement the projects in this lab, here's how you can get started:
 
-1. **Create accounts on the following platforms** (all offer free versions):
-    - Namelix for generating business names
-    - Canva for designing logos and marketing materials
-    - Copy.ai for marketing copy
-    - Bizplan for structuring business plans
-    - Ubersuggest for SEO and keyword planning
+1. **Create accounts on the platforms mentioned in each step (or analogous)**.
 
 2. **Bookmark the relevant websites and ensure access to their APIs if available**.
+
+>  📢 Even if we tell you to use a certain tool like Namelix or Synthesia, feel free to explore with any of the analogous.
 
 ## Steps in the Workflow
 
 ### Step 1: Market Research
 
-Understand the market and niche you want to target by using Ubersuggest to identify relevant keywords and trends that are currently in demand.
+![image](https://github.com/user-attachments/assets/64caeb4d-da7d-40ff-9922-4fdc9d218004)
+
+Understand the market and niche you want to target by using **Ubersuggest** to identify relevant keywords and trends that are currently in demand.
 
 ### Step 2: Business Naming
 
-Use Namelix to generate a list of potential business names based on keywords related to your business idea.
+![image](https://github.com/user-attachments/assets/9ef38cfc-f453-48fb-900b-773b81b7da10)
 
-### Step 3: Logo Creation
+Use **Namelix** to generate a list of potential business names based on keywords related to your business idea.
 
-Create a logo using Canva's AI-powered design tools. Experiment with different styles until you find one that aligns with your business's branding.
+### Step 3: Defining Slogan
 
-### Step 4: Marketing Material Development
+![image](https://github.com/user-attachments/assets/eb2fe175-a27d-49b8-baa9-2a5486359601)
 
-Utilize Copy.ai to generate compelling copy for your website, brochures, and social media. Customize the outputs to fit your brand's voice.
+Use **Ahrefs Free Slogan Generator** or any analogous tool to generate a cool slogan to attract the attention of potential customers.
 
-### Step 5: Business Plan Creation
+### Step 4: Logo and Brand Identity Creation
 
-Draft a business plan using Bizplan. This tool will help you outline your business strategy, financials, and operational plans in a structured format.
+![image](https://github.com/user-attachments/assets/c056f97c-26bc-4432-b82d-ec65fc7945e1)
 
-### Step 6: Website Development
+Create a logo and a Brand Identity using **Brandmark.io** tools. Experiment with different styles until you find one that aligns with your business's branding.
 
-Using Wix or a similar platform, create a basic website for your business that includes your marketing copy and visual elements like the logo.
+### Step 5: Pitch Deck Development
 
-### Step 7: Feedback and Iteration
+![image](https://github.com/user-attachments/assets/ce22f3c1-c953-43b7-8a5b-25d52d486b74)
 
-Gather feedback on your business concept and materials from potential customers using SurveyMonkey or another survey tool.
+Use **Gamma** to create a great pitch deck to distribute that provides an overview of your business plan, products, services and growth traction to catch inversors.
 
-### Step 8: Final Presentation
+### Step 6: Recording Promotional Video
 
-Prepare a final presentation of your business concept using Google Slides or PowerPoint, integrating all the elements you've created.
+![image](https://github.com/user-attachments/assets/a450a064-294a-4780-8b77-6c2139c3aa74)
 
-### Step 9: Evaluation
+Use **Synthesia** to elaborate a profesional video promoting your new business.
 
-Evaluate the effectiveness of using Generative AI tools in the startup creation process. Discuss potential improvements and real-world applicability. 
+### Step 7: Website Development
+
+![image](https://github.com/user-attachments/assets/086eeadd-82d3-4f01-bf66-7368558d7135)
+
+Using **Bolt** or a similar platform, create a basic website for your business that includes your marketing copy and visual elements like the logo.
+
+### Step 8: Feedback and Iteration
+
+![image](https://github.com/user-attachments/assets/ec231ef9-34ca-4aa8-bc67-3b4af804bdec)
+
+Gather feedback on your business concept and materials from potential customers (teachers, classmates and relatives) using **SurveyMonkey** or another survey tool.
+
+---
+
+### Bonus
+
+Search and experiment with more AI based tools as **social media content** or **business plan** generators to continue defining your new business even more!
+
+---
 
 ## Submission
-Once you have completed your analysis and visualizations, push your Jupyter notebook to your forked GitHub repository. Ensure that your final submission includes narratives explaining your visualizations and insights.
+Once you have completed your materials, don't forget to share it with your teachers and put the links in this Readme.
 
+---
 
 ```bash
 $ git add .
