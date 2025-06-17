@@ -26,8 +26,6 @@ To follow along and implement the projects in this lab, here's how you can get s
 
 Understand the market and niche you want to target by using **Ubersuggest** to identify relevant keywords and trends that are currently in demand.
 
-![Screenshot from 2025-06-16 14-43-16](https://github.com/user-attachments/assets/c3223407-4988-4223-9b98-623021b7d84e)
-
 
 ### Step 2: Business Naming
 
@@ -47,6 +45,10 @@ Use **Ahrefs Free Slogan Generator** or any analogous tool to generate a cool sl
 
 Create a logo and a Brand Identity using **Brandmark.io** tools. Experiment with different styles until you find one that aligns with your business's branding.
 
+I created 2 logos. I decide to take the second one:
+
+![Screenshot from 2025-06-16 14-43-16](https://github.com/user-attachments/assets/c3223407-4988-4223-9b98-623021b7d84e)
+
 ![Screenshot from 2025-06-16 14-40-45](https://github.com/user-attachments/assets/b1a210fa-6623-474c-a6de-d1710ddbc5d4)
 
 
@@ -56,6 +58,8 @@ Create a logo and a Brand Identity using **Brandmark.io** tools. Experiment with
 
 Use **Gamma** to create a great pitch deck to distribute that provides an overview of your business plan, products, services and growth traction to catch inversors.
 
+Here is my pitch deck created with Gamma:
+
 https://gamma.app/docs/Untitled-pjy5cx5aq8fbfyl
 
 ### Step 6: Recording Promotional Video
@@ -63,6 +67,8 @@ https://gamma.app/docs/Untitled-pjy5cx5aq8fbfyl
 ![image](https://github.com/user-attachments/assets/a450a064-294a-4780-8b77-6c2139c3aa74)
 
 Use **Synthesia** to elaborate a profesional video promoting your new business.
+
+this is my video promoting do with Synthesia:
 
 https://app.synthesia.io/#/video-edit/7fe665f7-fcbb-4cb5-9c7c-7b93de4eac36
 
